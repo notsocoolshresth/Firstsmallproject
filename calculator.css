@@ -1,0 +1,106 @@
+body{
+    background-color: rgba(0,0,0,255);
+    font-family: sans-serif;
+    text-align: right;
+}
+
+
+.grey{
+    background-color:rgba(165,165,165,255);
+    border-width: none;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    border-style: none;
+    margin-bottom: 5px;
+    
+}
+
+
+.orange{
+    background-color: rgba(255,159,10,255); 
+    border-width: none;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    border-style: none;
+    margin-bottom: 5px;
+}
+.blackish{
+     background-color: rgba(51,51,51,255);
+    border-width: none;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    border-style: none;
+     margin-bottom: 5px;
+}
+#b17{
+    background-color: rgba(51,51,51,255);
+    border-width: none;
+    border-radius: 40px;
+    height: 30px;
+    width: 65px;
+    border-style: none;
+    
+}   
+#b1{
+    color:white;
+    margin-right: 5px;
+}
+#b2{
+    color:white;
+    margin-right: 5px;
+}
+#b3{
+    color:white;
+    margin-right: 5px;
+}
+#b5{
+    margin-right: 5px;
+}
+#b6{
+    margin-right: 5px;
+}
+#b7{
+    margin-right: 5px;
+}
+#b9{
+    margin-right: 5px;
+}
+#b10{
+    margin-right: 5px;
+}
+#b11{
+    margin-right: 5px;
+}
+#b13{
+    margin-right: 5px;
+}#b14{
+    margin-right: 5px;
+}#b15{
+    margin-right: 5px;
+}
+#b18{
+    margin-left: 5px;
+    margin-right:5px;
+}
+#answersection{
+    color:white;
+    
+    border-color: rgb(37, 33, 33);
+    
+    margin-top:50px;
+    margin-left: 105px;
+    font-size:xx-large;
+    
+    
+}   
+    
+
