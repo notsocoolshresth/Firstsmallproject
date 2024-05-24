@@ -8,7 +8,7 @@ add = false;
 sub = false;
 opp=false;
 
-
+//i
 const button1 = document.querySelector("#b1");
 const button2 = document.querySelector("#b2");
 const button3 = document.querySelector("#b3");
