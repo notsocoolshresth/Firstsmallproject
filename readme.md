@@ -1,1 +1,1 @@
-I know the javascript is very bad right now cause i don't know very much about it, so i made it however i knew  might will change it later.
+THIS IS A REPO WHERE I MADE A CALCULATOR USING BASIC FRONT-END SOLUTIONS LIKE HTML,CSS AND JAVASCRIPT
